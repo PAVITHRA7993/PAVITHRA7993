@@ -1,5 +1,5 @@
 ### A Passionate Data Science Learner
- Profile Views   [![HitCount](https://hits.dwyl.com/PAVITHRA7993/PAVITHRA7993.svg?style=flat-square)](http://hits.dwyl.com/PAVITHRA7993/PAVITHRA7993)
+
  
 https://th.bing.com/th/id/OIP.TBbRWRsrH6fN7c05iI2pDgHaDM?w=323&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7
 
